@@ -1,5 +1,5 @@
 ## 概要
-勤怠管理OZO3の打刻を自動化するcloud functionsスクリプトです。
+勤怠管理OZO3の打刻を自動化するCloud Functionsスクリプトです。
 このコードをCloud FunctionsにデプロイしHTTPトリガーにします。
 
 ## Cloud Functions要件
